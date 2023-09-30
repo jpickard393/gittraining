@@ -26,6 +26,7 @@ function App() {
         </p>
       </div>
       <h1 className="read-the-docs">This is feature/JP1</h1>
+      <h1>This change has been added</h1>
     </>
   );
 }
