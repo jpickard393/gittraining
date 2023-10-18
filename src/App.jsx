@@ -29,6 +29,7 @@ function App() {
       <h2>This change has been added</h2>
       <h2>H1s now H2s</h2>
       <h2>This is feature/jp3</h2>
+      <h2>This was addede after git reset --hard 3f699c4</h2>
     </>
   );
 }
