@@ -28,7 +28,6 @@ function App() {
       <h2 className="read-the-docs">This is feature/JP1</h2>
       <h2>This change has been added</h2>
       <h1>Hello</h1>
-      <h2>After commit</h2>
     </>
   );
 }
