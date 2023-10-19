@@ -27,12 +27,7 @@ function App() {
       </div>
       <h2 className="read-the-docs">This is feature/JP1</h2>
       <h2>This change has been added</h2>
-      <h2>H1s now H2s</h2>
-      <h2>This is feature/jp3</h2>
-      <h2>This was addede after git reset --hard 3f699c4</h2>
-      <h2>This is a new addition to feature/jp3</h2>
-      <h2>This is before a revert to 3f699c49</h2>
-      <h2>Added a new H2 before revert</h2>
+      <h1>Hello</h1>
     </>
   );
 }
