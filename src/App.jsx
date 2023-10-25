@@ -29,6 +29,7 @@ function App() {
       <h2>This change has been added</h2>
       <h2>Feature/JP2</h2>
       <h2>Before anything</h2>
+      <h2>Added this H2 as new commit</h2>
     </>
   );
 }
