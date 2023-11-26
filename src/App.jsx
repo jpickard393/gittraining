@@ -30,7 +30,7 @@ function App() {
       <h2>Feature/JP2</h2>
       <h2>Before anything</h2>
       <h2>Added this H2 as new commit</h2>
-      <h3>Hello</h3>
+      <h3>Hello From Feature/JP2</h3>
     </>
   );
 }
