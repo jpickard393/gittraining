@@ -25,7 +25,6 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
-      <h2 className="read-the-docs">This is feature/JP1</h2>
       <h1>This is feature/JP2</h1>
     </>
   );
