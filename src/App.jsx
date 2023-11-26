@@ -34,7 +34,7 @@ function App() {
       <h2>Friday</h2>
       <h2>Saturday</h2>
       <h2>Sunday</h2>
-      <h1>This is a new addition to feature/jp3</h1>
+      <h1>This is a new addition to feature/jp3 From Feature/JP2</h1>
     </>
   );
 }
