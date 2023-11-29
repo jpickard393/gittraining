@@ -26,9 +26,13 @@ function App() {
         </p>
       </div>
       <h1>This is feature/JP2</h1>
-      <h1>January</h1>
-      <h1>February</h1>
-      <h1>March</h1>
+      <h1>Monday</h1>
+      <h1>Tuesday</h1>
+      <h1>Wednesday</h1>
+      <h1>Thursday</h1>
+      <h1>Friday</h1>
+      <h1>Saturday</h1>
+      <h1>Sunday</h1>
     </>
   );
 }
