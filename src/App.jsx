@@ -29,6 +29,15 @@ function App() {
       <h1>January</h1>
       <h1>February</h1>
       <h1>March</h1>
+      <h1>April</h1>
+      <h1>May</h1>
+      <h1>June</h1>
+      <h1>July</h1>
+      <h1>August</h1>
+      <h1>September</h1>
+      <h1>October</h1>
+      <h1>November</h1>
+      <h1>December</h1>
     </>
   );
 }
