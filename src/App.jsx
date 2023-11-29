@@ -26,6 +26,8 @@ function App() {
         </p>
       </div>
       <h1>This is feature/JP2</h1>
+      <h1>January</h1>
+      <h1>February</h1>
     </>
   );
 }
